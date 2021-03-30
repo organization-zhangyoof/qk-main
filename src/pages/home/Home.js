@@ -25,12 +25,13 @@ const Home = (props) => {
     
     return(
         <div style={{width:'100%',height:'100%',background:'#FAE5E5'}}>
-            <div>
+            {/* <div>
                 <Header {...headerProps}/>
             </div>
             <div>
                 <Body {...bodyProps}/>
-            </div>
+            </div> */}
+            <h1>主应用</h1>
         </div>
     )
 }
