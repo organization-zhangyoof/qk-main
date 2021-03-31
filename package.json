@@ -31,6 +31,6 @@
     "yorkie": "^2.0.0"
   },
   "devDependencies": {
-    "@umijs/plugin-qiankun": "^2.23.0"
+    "@umijs/plugin-qiankun": "^2.24.1"
   }
 }
