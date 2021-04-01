@@ -7,10 +7,10 @@ const Body = (props) => {
             name:'app1',
             url:'/app1'
         },
-        {
-            name:'app2',
-            url:'/partB'
-        }
+        // {
+        //     name:'app2',
+        //     url:'/partB'
+        // }
     ]
     return(
         <div className = {styles._basis_main_}>
