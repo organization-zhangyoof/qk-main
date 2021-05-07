@@ -7,11 +7,11 @@ const route = [
     //            },
 ]
 const routes = [
-    {
-        exact: true,
-        path: '/',
-        redirect: '/home'
-    },
+    // {
+    //     exact: true,
+    //     path: '/',
+    //     redirect: '/home'
+    // },
     {
         path: '/',
         component: '@/layouts/index',

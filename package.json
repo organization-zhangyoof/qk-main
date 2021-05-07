@@ -3,7 +3,7 @@
   "name": "qk-main",
   "displayName": "乾坤主应用",
   "scripts": {
-    "start": " cross-env PORT=9000 umi dev",
+    "start": "cross-env PORT=9000 umi dev",
     "build": "umi build",
     "postinstall": "umi generate tmp",
     "prettier": "prettier --write '**/*.{js,jsx,tsx,ts,less,md,json}'",

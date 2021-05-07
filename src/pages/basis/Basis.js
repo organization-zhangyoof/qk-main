@@ -32,7 +32,7 @@ const Body = (props) => {
             </div>
             <div className = {styles.bsis_body}>
                 <div className = {styles.navBar}></div>
-                <div className = {styles.container}>
+                <div className = {styles.container} id="content_main">
                     {props.children}
                     {/* <p style={{color:'#fff'}}>fdhskjafdsadsadsads</p> */}
                 </div>
